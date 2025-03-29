@@ -50,7 +50,6 @@
     "pdf-lib": "latest",
     "pdfjs-dist": "4.8.69",
     "react": "^19",
-   
     "react-dom": "^19",
     "react-dropzone": "latest",
     "react-hook-form": "^7.54.1",
@@ -60,7 +59,6 @@
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "vaul": "^0.9.6",
     "zod": "^3.24.1"
   },
   "devDependencies": {
