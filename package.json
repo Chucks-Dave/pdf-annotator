@@ -50,7 +50,7 @@
     "pdf-lib": "latest",
     "pdfjs-dist": "4.8.69",
     "react": "^19",
-    "react-day-picker": "8.10.1",
+   
     "react-dom": "^19",
     "react-dropzone": "latest",
     "react-hook-form": "^7.54.1",
